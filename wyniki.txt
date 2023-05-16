@@ -1,0 +1,7 @@
+Sortowanie kopcowe:
+Posortowane liczby: [1, 4, 5, 5, 10, 11, 73]
+Czas wykonania: 8.199946023523808e-06 sekundy
+
+Sortowanie szybkie:
+Posortowane liczby: []
+Czas wykonania: 1.700012944638729e-06 sekundy
